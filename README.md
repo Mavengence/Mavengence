@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Machine Learning Engineer from Germany</h3>
+### Hi there I'm Tim👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
-+[![dev.to badge](https://img.shields.io/badge/linkedin-mavengence-%230177B5?style=flat&logo=linkedin)](inkedin.com/in/tim-löhr-821ba8188/)
-+[![insta badge](https://img.shields.io/badge/instagram-@tim_loehr27-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tim_loehr27)
-![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
+I'm a Machine Learning Engineer at Siemens and CS Masters Student at the Friedrich Alexander University in Bavaria, Germany.<br/> <br/>
+[![dev.to badge](https://img.shields.io/badge/linkedin-mavengence-%230177B5?style=flat&logo=linkedin)](linkedin.com/in/tim-löhr-821ba8188/)
+[![twitter badge](https://img.shields.io/badge/instagram-@mavengence-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tim_loehr27)
+![](https://komarev.com/ghpvc/?username=mavengence&color=brightgreen&style=flat)
 
 - 🌱 I’m currently learning doing my Masters degree in CS at the Friedrich Alexander University in Bavaria, Germany
 
