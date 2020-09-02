@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <center>
 <h3 align="center">Machine Learning Engineer at Siemens</h3>
-<h4> Master CS Student at the Friedrich Alexander University in Bavaria, Germany</h4>
 </center>
 
 <p align="center">
