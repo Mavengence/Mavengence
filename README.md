@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300">
+
+
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">Machine Learning Engineer at Siemens</h3>
 <h4> Master CS Student at the Friedrich Alexander University in Bavaria, Germany</h4>
