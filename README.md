@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Machine Learning Engineer at Siemens and Master CS Student at the Friedrich Alexander University in Bavaria, Germany</h3>
+<h3 align="center">Machine Learning Engineer at Siemens</h3>
+<h4> Master CS Student at the Friedrich Alexander University in Bavaria, Germany</h4>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **timloehr@icloud.com**
 
-- ⚡ Fun fact **Matcha and cold brew coffee :)**
+- ⚡ I love **Matcha and cold brew coffee :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
