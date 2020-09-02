@@ -1,5 +1,3 @@
-<img src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
-
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">Machine Learning Engineer at Siemens</h3>
 <h4> Master CS Student at the Friedrich Alexander University in Bavaria, Germany</h4>
