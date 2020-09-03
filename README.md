@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
+<h1 align="center">我是Tim👋, 你好！(just kidding, it's gunna be english :))</h1>
 <center>
 <h3 align="center">Machine Learning Engineer at Siemens</h3>
 </center>
