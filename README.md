@@ -1,4 +1,4 @@
-<h1 align="center">It's me, Tim 👋,</h1>
+<h1 align="center">It's me, Tim 👋</h1>
 <center>
 <h3 align="center">Machine Learning Engineer at Siemens</h3>
 </center>
