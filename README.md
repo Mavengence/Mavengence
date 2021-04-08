@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Tim 👋</h1>
 <center>
-<h3 align="center">Machine Learning Engineer at Siemens</h3>
+<h3 align="center">Business Intelligence Engineer @ Amazon</h3>
 </center>
 
 <p align="center">
