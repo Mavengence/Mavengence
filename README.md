@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Tim 👋</h1>
 <center>
-<h3 align="center">Business Intelligence Engineer @ Amazon</h3>
+<h3 align="center">Master Student @University of Erlangen-Nuremberg</h3>
 </center>
 
 <p align="center">
