@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Tim 👋</h1>
 <center>
-<h3 align="center">Master Student @University of Erlangen-Nuremberg</h3>
+<h3 align="center">Data Scientist @Apple</h3>
 </center>
 
 <p align="center">
@@ -13,9 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
 
-- 🔭 I’m currently working on getting a job
-
-- 🌱 I’m currently learning **Object Detection**
+- 🌱 I’m currently learning about **Large Language Models**
 
 - 📫 How to reach me **timloehr@icloud.com**
 
