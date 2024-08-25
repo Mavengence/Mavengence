@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Tim 👋</h1>
 <center>
-<h3 align="center">Data Scientist @Apple</h3>
+<h3 align="center">Data Scientist @Red Bull</h3>
 </center>
 
 <p align="center">
@@ -12,8 +12,6 @@
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
-
-- 🌱 I’m currently learning about **Large Language Models**
 
 - 📫 How to reach me **timloehr@icloud.com**
 
