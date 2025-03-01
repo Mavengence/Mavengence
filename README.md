@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Tim 👋</h1>
 <center>
-<h3 align="center">Data Scientist @Red Bull</h3>
+<h3 align="center">Data Engineer @Meta</h3>
 </center>
 
 <p align="center">
