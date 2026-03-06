@@ -16,7 +16,7 @@
 
 I build data infrastructure and ML systems at scale. Currently at **Meta** in Warsaw, previously at **Apple** and **Red Bull** — always at the intersection of data engineering and applied ML.
 
-M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction). Published in the *Journal of Evolutionary Intelligence*. Best Paper Award for ML in clinical trials. Oxford ML Summer School (NLP × Finance).
+M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction). Published in the *Journal of Evolutionary Intelligence*.
 
 ---
 
@@ -40,11 +40,3 @@ M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction).
 | **Apple** | Data Scientist · 2022 – 2023 |
 | **Red Bull** | Data Scientist · 2021 – 2022 |
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mavengence&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavengence&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
