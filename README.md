@@ -1,18 +1,50 @@
-<h1 align="center">It's me, Tim 👋</h1>
-<center>
-<h3 align="center">Data Engineer @Meta</h3>
-</center>
+<h1 align="center">Tim Löhr</h1>
+<h3 align="center">Data Engineer · Meta · Warsaw</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/tim-loehr-821ba8188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tim-löhr-821ba8188" height="30" width="30" /></a>
-<a href="https://kaggle.com/mavengence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mavengence" height="30" width="30" /></a>
-<a href="https://instagram.com/tim_loehr27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tim_loehr27" height="30" width="30" /></a>
-<a href="https://medium.com/@mavengence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingloehr2" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/tim-loehr-821ba8188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/mavengence"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@mavengence"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="mailto:timloehr@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=apple&logoColor=white" /></a>
 </p>
-<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mavengence&style=flat&color=grey" />
+</p>
 
-- 📫 How to reach me **timloehr@icloud.com**
+---
 
-- ⚡ I love **Matcha and cold brew coffee :)**
+I build data infrastructure and ML systems at scale. Currently at **Meta** in Warsaw, previously at **Apple** and **Red Bull** — always at the intersection of data engineering and applied ML.
+
+M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction). Published in the *Journal of Evolutionary Intelligence*. Best Paper Award for ML in clinical trials. Oxford ML Summer School (NLP × Finance).
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### Career
+
+| | |
+|---|---|
+| **Meta** | Data Engineer · Warsaw · 2023 – present |
+| **Apple** | Data Scientist · 2022 – 2023 |
+| **Red Bull** | Data Scientist · 2021 – 2022 |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mavengence&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavengence&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
