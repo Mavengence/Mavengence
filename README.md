@@ -36,7 +36,7 @@ M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction).
 
 | | |
 |---|---|
-| **Meta** | Data Engineer · 2023 – present |
-| **Apple** | Data Scientist · 2022 – 2023 |
-| **Red Bull** | Data Scientist · 2021 – 2022 |
+| **Meta** | Data Engineer · 2025 – present |
+| **Red Bull** | Data Scientist · 2024 – 2025 |
+| **Apple** | Data Scientist · 2022 – 2024 |
 
