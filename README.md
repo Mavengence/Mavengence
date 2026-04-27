@@ -44,5 +44,5 @@ M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction).
 
 ### Open source
 
-**[Data Engineering Fundamentals](https://github.com/Mavengence/data-engineering-fundamentals)** — ten DE concepts as live browser simulators. No install.  
+**[Data Engineering Fundamentals](https://github.com/Mavengence/data-engineering-fundamentals)**: ten DE concepts as live browser simulators. No install.  
 [→ timloehr.me/data-engineering-fundamentals](https://www.timloehr.me/data-engineering-fundamentals/)
