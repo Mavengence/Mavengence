@@ -39,10 +39,3 @@ M.Sc. Computer Science from FAU Erlangen-Nürnberg (graduated with distinction).
   | **Meta** | Data Engineer · 2025 – present |
   | **Red Bull** | Data Scientist · 2024 – 2025 |
   | **Apple** | Data Scientist · 2022 – 2024 |
-
----
-
-### Open source
-
-**[Data Engineering Fundamentals](https://github.com/Mavengence/data-engineering-fundamentals)**: ten DE concepts as live browser simulators. No install.  
-[→ timloehr.me/data-engineering-fundamentals](https://www.timloehr.me/data-engineering-fundamentals/)
